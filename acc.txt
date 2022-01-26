@@ -1,0 +1,1 @@
+{"user": ["fname lname", "age", "gender", "city", "password"], "psgurav@bankid": ["Prasad Gurav", 20, "male", "Faizpur", "psgurav@2001", "52882100239", 4600], "abhishek@bankid": ["Abhishek Sonawane", 20, "male", "Banglore", "abhi@2001", "10372479696", 20000], "sunny@bankid": ["Sajid Tadavi", 20, "male", "Faizpur", "sunny@2001", "14927905872", 3000]}
